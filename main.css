@@ -47,7 +47,7 @@
 	/* HOME BUTTON ICON */
 	--home-icon: url(https://i.imgur.com/rOGHxq4.gif); /* home button icon (link must be HTTPS) [default: url(https://clearvision.gitlab.io/icons/discord.svg)]*/
 	--home-position: center; /* home button icon position [default: center] */
-	--home-size: 35px; /* home button icon size [default: 40px] */
+	--home-size: 30px; /* home button icon size [default: 40px] */
 	
 	/* MODAL BACKDROP */
 	--backdrop-overlay: rgba(0, 0, 0, 0.8); /* modal backdrop overlay color/gradient [default: rgba(0, 0, 0, 0.8)] */
