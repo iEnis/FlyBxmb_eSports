@@ -9,8 +9,8 @@
 	
 	/* Customization Patch */
 	--channel-unread: var(--main-color); /* Unread Server channel color. [default:  var(--main-color)] THIS OVERRIDES YOUR MAIN COLOR*/
-	--channel-color:  rgba(255, 255, 255, 0.363); /*Read Server channel color  [default: rgba(255,255,255,0.3);]*/
-	--muted-color: rgba(255, 255, 255, 0.164); /*Muted channel color  [default: rgba(255,255,255,0.1);]*/
+	--channel-color:  rgba(255, 255, 255, 0.500); /*Read Server channel color  [default: rgba(255,255,255,0.3);]*/
+	--muted-color: rgba(255, 255, 255, 0.363); /*Muted channel color  [default: rgba(255,255,255,0.1);]*/
 	--url-color: rgb(243, 69, 0); /*The color of url links [default: var(--main-color)]*/     
 
 	/* STATUS COLORS */
